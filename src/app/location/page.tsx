@@ -1,6 +1,6 @@
 "use client";
 
-import heroImage from "../../../public/locationImage.png";
+import heroImage from "../../../public/locationImage.jpg";
 import { Box, Center } from "@chakra-ui/react";
 import Image from "next/image";
 import { location1 } from "../../../public";
@@ -12,7 +12,7 @@ export default function Location() {
 
   return (
     <>
-      <Caption pageCaption="Locations" backImage={backgroundImageUrl}/>
+      <Caption pageCaption="Locations" backImage={backgroundImageUrl} />
       <Box width="100%" px={{ base: 10, md: 12, xl: 36 }} pt={10} pb={6}>
         <Center>
           <Image

@@ -1,5 +1,5 @@
 import { Box, Stack, Heading, Text, HStack } from "@chakra-ui/react";
-import heroImage from "../../../../public/background.jpg";
+import heroImage from "../../../../public/background.png";
 import Btn from "../../button";
 
 export default function Hero() {
