@@ -62,7 +62,7 @@ export default function Hero() {
           width={{ base: "100%", md: "200px" }}
           textAlign={{ base: "center", lg: "start" }}
         >
-          <Btn btnText="Get Scootin" />
+          <Btn btnText="Get Scootiey" />
         </Box>
       </Stack>
 

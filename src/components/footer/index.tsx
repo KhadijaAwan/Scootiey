@@ -31,7 +31,7 @@ export default function Footer() {
             fontWeight="bold"
             fontFamily="monospace"
           >
-            scoot
+            Scootiey
           </Link>
         </Heading>
 

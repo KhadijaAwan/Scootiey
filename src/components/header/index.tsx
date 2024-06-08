@@ -86,7 +86,7 @@ export default function Header() {
             </DrawerBody>
 
             <DrawerFooter my={8}>
-              <Btn btnText="Get Scootin" />
+              <Btn btnText="Get Scootiey" />
             </DrawerFooter>
           </DrawerContent>
         </Drawer>
@@ -99,7 +99,7 @@ export default function Header() {
             fontWeight="bold"
             fontFamily="monospace"
           >
-            scoot
+            Scootiey
           </Link>
         </Heading>
 
@@ -122,7 +122,7 @@ export default function Header() {
         </Box>
 
         <Box display={{ base: "none", md: "block" }}>
-          <Btn btnText="Get Scootin" />
+          <Btn btnText="Get Scootiey" />
         </Box>
       </Flex>
     </Box>

@@ -7,7 +7,7 @@ import SignUp from "@/components/signUp";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Scooter",
+  title: "Scootiey",
   description:
     "A sccoter website which gives us an overview about the scooter.",
   icons: {
